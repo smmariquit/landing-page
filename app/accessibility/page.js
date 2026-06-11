@@ -1,3 +1,5 @@
+// app/accessibility/page.js
+
 import Head from 'next/head'
 import Link from 'next/link'
 
